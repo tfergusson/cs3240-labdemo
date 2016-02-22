@@ -1,1 +1,1 @@
-# cs3240-labdemo is stupid
+# cs3240-labdemo is inane
